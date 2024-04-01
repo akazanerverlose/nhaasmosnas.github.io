@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Nhaa.io</title>
+    <title>Nhaasmos
+    </title>
     <link
       href="https://fonts.googleapis.com/css2?family=Angkor&family=Press+Start+2P&display=swap"
       rel="stylesheet"
